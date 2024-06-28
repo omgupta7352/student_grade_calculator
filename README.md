@@ -9,7 +9,7 @@ The Student Grade Calculator is a web-based application that allows users to inp
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -74,6 +74,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 5. Open a pull request on GitHub.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
