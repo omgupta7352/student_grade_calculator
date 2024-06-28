@@ -1,4 +1,5 @@
 # Student Grade Calculator
+![Student Grade Calculator](grade.png)
 
 The Student Grade Calculator is a web-based application that allows users to input student scores and calculate their final grades. This project is built using HTML, CSS, and JavaScript.
 
